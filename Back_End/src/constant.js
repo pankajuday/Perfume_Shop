@@ -1,0 +1,1 @@
+export const PERFUME_SHOP_DB = "perfumeShop";
